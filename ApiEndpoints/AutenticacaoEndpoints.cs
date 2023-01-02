@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace ApiCatalogo02.ApiEndpoints
 {
     public  static class AutenticacaoEndpoints
-    {
+    {   
         public static void MapAutenticacaoEndPoins(this WebApplication app)
         {
             //endpoint para login

@@ -41,3 +41,5 @@ app.UseAuthentication(); // requisitos para a chave
 app.UseAuthorization(); // requisitos para a chave
 
 app.Run();
+
+string teste = "teste";
