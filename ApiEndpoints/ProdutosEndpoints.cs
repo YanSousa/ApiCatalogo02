@@ -68,5 +68,6 @@ namespace ApiCatalogo02.ApiEndpoints
                 return Results.NoContent();
             });
         }
+        disdjidsji/jisjid 
     }
 }
